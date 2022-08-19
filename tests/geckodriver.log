@@ -1,0 +1,24 @@
+1657196927268	geckodriver	INFO	Listening on 127.0.0.1:55990
+1657196930354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileQWrZEW"
+1657196931101	Marionette	INFO	Marionette enabled
+1657196931108	Marionette	INFO	Listening on port 56000
+WebDriver BiDi listening on ws://localhost:55991
+Read port: 56000
+1657196931361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileQWrZEW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55991/devtools/browser/9b259240-0b2e-449c-a8ea-dd3ed5b6dc80
+1657196935132	Marionette	INFO	Stopped listening on port 56000
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\CLIFFE~1\AppData\Local\Temp\rust_mozprofileQWrZEW\protections.sqlite
+1657196970349	geckodriver	INFO	Listening on 127.0.0.1:56036
+1657196973430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileIeYKvh"
+1657196973807	Marionette	INFO	Marionette enabled
+1657196973812	Marionette	INFO	Listening on port 56046
+WebDriver BiDi listening on ws://localhost:56037
+Read port: 56046
+1657196974056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileIeYKvh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56037/devtools/browser/7decec62-71f6-456a-8585-6ff961988751
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1657196986277	Marionette	INFO	Stopped listening on port 56046
